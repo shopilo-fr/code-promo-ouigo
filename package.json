@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-ouigo",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo OUIGO depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-ouigo",
+    "bon-de-reduction-ouigo",
+    "coupon-ouigo",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/ouigo.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-ouigo.git"
+  }
+}
